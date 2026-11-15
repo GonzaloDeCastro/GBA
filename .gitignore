@@ -1,0 +1,8 @@
+# Motor Butano (se clona aparte, ver README)
+/butano/
+
+# Resultados de compilacion
+build/
+*.elf
+*.sav
+__pycache__/
